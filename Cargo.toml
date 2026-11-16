@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-distribution-patch-management"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS distribution-patch-management component - distribution"
+
+[lib]
+name = "distribution_patch_management"
+path = "src/lib.rs"
