@@ -3,7 +3,7 @@ name = "SigmaOS-distribution-patch-management"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "distribution-patch-management component"
+description = "Distribution Patch Management"
 upstream = []
 
 [contract]
